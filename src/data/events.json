@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1",
+    "title": "Toronto Fintech Summit 2025",
+    "slug": "toronto-fintech-summit-2025",
+    "date": "2025-05-15",
+    "time": "9:00 AM - 5:00 PM",
+    "location": "Metro Toronto Convention Centre",
+    "description": "Join us for the largest fintech gathering in Canada. Connect with industry leaders, innovative startups, and investors shaping the future of financial technology.",
+    "image": "/images/events/fintech-summit.jpg",
+    "registrationLink": "https://fintechtoronto.com/events/summit-2025",
+    "featured": true,
+    "tags": ["Conference", "Networking", "Innovation"]
+  },
+  {
+    "id": "2",
+    "title": "Blockchain Workshop Series",
+    "slug": "blockchain-workshop-series",
+    "date": "2025-04-10",
+    "time": "6:30 PM - 8:30 PM",
+    "location": "MaRS Discovery District",
+    "description": "A hands-on workshop series exploring practical applications of blockchain technology in financial services. Perfect for developers and business professionals looking to understand the technical aspects of blockchain implementation.",
+    "image": "/images/events/blockchain-workshop.jpg",
+    "registrationLink": "https://fintechtoronto.com/events/blockchain-workshop",
+    "featured": false,
+    "tags": ["Workshop", "Blockchain", "Technical"]
+  },
+  {
+    "id": "3",
+    "title": "Women in Fintech Networking Mixer",
+    "slug": "women-in-fintech-mixer",
+    "date": "2025-04-25",
+    "time": "5:30 PM - 8:00 PM",
+    "location": "Scotiabank Digital Factory",
+    "description": "An evening dedicated to celebrating and connecting women in the fintech industry. Featuring lightning talks from female founders and executives, followed by structured networking opportunities.",
+    "image": "/images/events/women-fintech.jpg",
+    "registrationLink": "https://fintechtoronto.com/events/women-fintech-mixer",
+    "featured": true,
+    "tags": ["Networking", "Diversity", "Leadership"]
+  },
+  {
+    "id": "4",
+    "title": "AI in Financial Services Symposium",
+    "slug": "ai-financial-services-symposium",
+    "date": "2025-06-05",
+    "time": "10:00 AM - 4:00 PM",
+    "location": "Vector Institute",
+    "description": "Explore the cutting-edge applications of artificial intelligence in financial services. This symposium brings together researchers, practitioners, and thought leaders to discuss the latest advancements and future directions of AI in finance.",
+    "image": "/images/events/ai-symposium.jpg",
+    "registrationLink": "https://fintechtoronto.com/events/ai-symposium",
+    "featured": true,
+    "tags": ["AI", "Research", "Innovation"]
+  }
+]
